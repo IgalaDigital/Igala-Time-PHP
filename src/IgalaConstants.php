@@ -33,7 +33,7 @@ class IgalaConstants
     const number27 = "Ógwú  ny’ẹ́yọ́ mébie";
     const number28 = "Ógwú  ny’ẹ́yọ́ mẹ́jọ";
     const number29 = "Ógwú- ny’ẹ́yọ́ mẹ́lā";
-    const number30 = " úkberú ";
+    const number30 = " úkperú ";
     const TIME_POINTER = "Agogo ";
     const AFTER_POINTER = " Tulẹ́ ";
     const BEFORE_POINTER = " Ki ";
